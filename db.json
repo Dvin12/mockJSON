@@ -5,7 +5,7 @@
       "name": "Apple MacBook Pro 16-inch",
       "type": "laptop",
       "brand": "Apple",
-      "image": "/assets/images/Macbook.png",
+      "image": "assets/images/Macbook.png",
       "price": 2399.0,
       "description": "Powerful and portable, the Apple MacBook Pro 16-inch features a stunning Retina display, fast processors, ample storage, and all-day battery life. It's designed for professionals and creatives who demand top-notch performance for their work."
     },
@@ -14,7 +14,7 @@
       "name": "Dell XPS 13",
       "type": "laptop",
       "brand": "Dell",
-      "image": "/assets/images/DellXps.png",
+      "image": "assets/images/DellXps.png",
       "price": 1399.99,
       "description": "The Dell XPS 13 is a compact and lightweight laptop that offers impressive performance and a virtually borderless InfinityEdge display. It's perfect for users who prioritize both power and portability."
     },
@@ -32,7 +32,7 @@
       "name": "Canon EOS R6",
       "type": "camera",
       "brand": "Canon",
-      "image": "/assets/images/EOSR6.png",
+      "image": "assets/images/EOSR6.png",
       "price": 2499.0,
       "description": "The Canon EOS R6 is a high-performance mirrorless camera that delivers exceptional image quality and advanced autofocus capabilities. It's designed for professional photographers and videographers who demand reliability and versatility."
     },
@@ -41,7 +41,7 @@
       "name": "Sony Alpha a7 III",
       "type": "camera",
       "brand": "Sony",
-      "image": "/assets/images/Alphaa7.png",
+      "image": "assets/images/Alphaa7.png",
       "price": 1999.99,
       "description": "The Sony Alpha a7 III is a full-frame mirrorless camera that combines impressive image quality, fast autofocus, and high-speed continuous shooting. It's suitable for both professionals and enthusiasts looking for a versatile camera."
     },
@@ -50,7 +50,7 @@
       "name": "Panasonic Lumix GH5 ",
       "type": "camera",
       "brand": "Panasonic",
-      "image": "/assets/images/LumixGH5.png",
+      "image": "assets/images/LumixGH5.png",
       "price": 1997.99,
       "description": "The Panasonic Lumix GH5 is a feature-packed mirrorless camera designed for videographers. It offers advanced video capabilities, including 4K recording, high frame rates, and professional-level controls."
     },
@@ -60,7 +60,7 @@
       "name": "Nikon AF-S FX NIKKOR 24-70mm",
       "type": "lens",
       "brand": "Nikon",
-      "image": "/assets/images/NIKKOR24-70mm.png",
+      "image": "assets/images/NIKKOR24-70mm.png",
       "price": 2399.0,
       "description": "The Nikon AF-S FX NIKKOR 24-70mm f/2.8E ED VR Lens is a versatile zoom lens suitable for various photography genres. It offers a wide focal length range, fast aperture, and image stabilization, making it a go-to lens for many professionals."
     },
@@ -69,7 +69,7 @@
       "name": "Fujifilm XF 56mm  ",
       "type": "lens",
       "brand": "Fujifilm",
-      "image": "/assets/images/XF56mm.png",
+      "image": "assets/images/XF56mm.png",
       "price": 999.0,
       "description": "The Fujifilm XF 56mm f/1.2 R Lens is a prime lens known for its exceptional image quality and beautiful bokeh. It's a popular choice for portrait photographers who want to capture stunning portraits with a shallow depth of field."
     },
@@ -78,7 +78,7 @@
       "name": "Sigma 35mm",
       "type": "lens",
       "brand": "Sigma",
-      "image": "/assets/images/Sigma35mm.png",
+      "image": "assets/images/Sigma35mm.png",
       "price": 899.0,
       "description": "The Sigma 35mm f/1.4 DG HSM Art Lens for Canon EF is a high-quality prime lens renowned for its sharpness and low-light performance. It's suitable for a wide range of photography genres, including landscape, street, and portrait photography."
     }
