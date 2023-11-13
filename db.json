@@ -84,23 +84,5 @@
     }
   ],
 
-
-
-"items":  [
-  {
-"id": 1,
-"attributes": {
-"description": "At the intersection of time-honored acoustic guitar craft and relentless innovation, Highway Series™ instruments transport players to a new era of performance in a way that only Fender® can. Merging a thin, ergonomic form factor and a groundbreaking Fishman® Fluence® Acoustic Pickup system designed around a revolutionary bracing structure, Highway Series guitars exhibit the tactile charm and unplugged resonance of acoustics twice their size, adding unmatched on-lap comfort for a truly unique acoustic experience.",
-"price": 999.99,
-"category": "acoustic",
-"createdAt": "2023-10-27T01:21:01.365Z",
-"updatedAt": "2023-10-27T01:21:07.808Z",
-"publishedAt": "2023-10-27T01:21:07.806Z",
-"model": "Highway Series™ Parlor",
-"company": "Fender"
-}
-},
-
-]
   
 }
